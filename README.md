@@ -70,11 +70,11 @@ Complete user-led decentralization and its support for flexible lending in minor
 
 
 P2P Ocean Lending
-![konomi5](https://github.com/memoriaXII/improved-spork/assets/56249189/c177d921-06cd-4b21-8fee-a576db63b1ae)
 
 Customized lending factors
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/29040ac3-0cc9-4fa7-a51c-7c3037ef3726/Untitled.png)
+![konomi5](https://github.com/memoriaXII/improved-spork/assets/56249189/c177d921-06cd-4b21-8fee-a576db63b1ae)
+
 
 Konomi Oracle
 ![konomi6](https://github.com/memoriaXII/improved-spork/assets/56249189/5bbadc61-63c0-498d-ab47-4461eca0dcbb)
