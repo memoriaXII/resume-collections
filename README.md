@@ -62,30 +62,27 @@ Onchain bidding chat system
 P2P Lending  & Permissionless Governance
 
 Complete user-led decentralization and its support for flexible lending in minority currencies. Konomi Ocean Lending consists of a pool of lending funds created by users within the protocol
+![konomi1](https://github.com/memoriaXII/improved-spork/assets/56249189/568329e6-9232-4a6a-9560-867d35e147d4)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/c02b4d87-745d-4815-b839-10ca9cd15479/Untitled.png)
+![konomi2](https://github.com/memoriaXII/improved-spork/assets/56249189/c09ce990-275d-434a-87c3-9e245d70359d)
+![konomi3](https://github.com/memoriaXII/improved-spork/assets/56249189/dbc096e6-dd3c-445a-93a7-5298779b707f)
+![konomi4](https://github.com/memoriaXII/improved-spork/assets/56249189/14ef47e7-6bf9-44aa-bc09-7e8af5dfee68)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/02cf9edb-58d5-4399-9494-00debcbaef39/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/20577f69-d273-42c3-8e1a-28d73143e2cd/Untitled.png)
 
 P2P Ocean Lending
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/19ddf569-9e94-4eaf-925a-810b0b08f701/Untitled.png)
+![konomi5](https://github.com/memoriaXII/improved-spork/assets/56249189/c177d921-06cd-4b21-8fee-a576db63b1ae)
 
 Customized lending factors
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/29040ac3-0cc9-4fa7-a51c-7c3037ef3726/Untitled.png)
 
 Konomi Oracle
+![konomi6](https://github.com/memoriaXII/improved-spork/assets/56249189/5bbadc61-63c0-498d-ab47-4461eca0dcbb)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/dee3d626-0f26-4d2e-b399-2bc88685707c/Untitled.png)
 
 Staking :
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/7129199d-a7b4-4ef3-b24e-5315484cacec/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/674d9f55-a842-490a-b9c6-c635e7045eb4/Untitled.png)
+![konomi7](https://github.com/memoriaXII/improved-spork/assets/56249189/1f321fa1-302f-440a-b38d-66c058dd0833)
+![konomi8](https://github.com/memoriaXII/improved-spork/assets/56249189/1abd5706-1c79-4271-96ae-c3862364de9a)
 
 Mainnet:
 
