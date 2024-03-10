@@ -36,20 +36,16 @@ Mainnet: <https://socol.xyz/>
 devnet: <https://aws.socol.fans/>
 
 On-chain Social Profile
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/2ae91a23-76ab-4354-b175-47291916f72b/Untitled.png)
+![socol-1](https://github.com/memoriaXII/improved-spork/assets/56249189/3ad4fbae-1413-4a6f-a6ec-aad40c70bfa4)
 
 Self Owned Community
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/eda70426-0d96-4dc4-b6a0-c84924c15795/Untitled.png)
+![socol2](https://github.com/memoriaXII/improved-spork/assets/56249189/25c781c4-b57e-4d5b-93e2-947da2725923)
 
 **Monetise content through NFT Premium Collectables**
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/76cdf463-c7d9-4d94-a095-081edb2a9c67/Untitled.png)
+![socol3](https://github.com/memoriaXII/improved-spork/assets/56249189/95a07b5b-75d6-4f55-8e91-50ffe56e014a)
 
 Onchain bidding chat system
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a525ec2-d169-4b1d-a1cc-3489f8b5dd5a/31c9c013-5438-4e09-9d60-cf3d634da2e9/Untitled.png)
+![socol4](https://github.com/memoriaXII/improved-spork/assets/56249189/18bb31ca-4627-4c84-909f-f46daa9a4898)
 
 ### Konomi network (<https://twitter.com/KonomiNetwork>)
 
