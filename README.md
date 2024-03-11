@@ -1,6 +1,6 @@
 # Latest Projects
 
-OpenEden (https://twitter.com/OpenEden_Labs)
+### OpenEden (https://twitter.com/OpenEden_Labs)
 
 Tokenized RWA vault to offer 24/7, direct access to U.S. Treasury Bills.
 
@@ -14,14 +14,14 @@ devnet: https://dev.openeden.com/
 - Implemented GraphQL subgraph queries and smart contract CRUD mutations.
 - Reviewed application requirements and interface designs to ensure seamless compatibility with existing applications.
 
-Vault swap exchange interface 
+#### Vault swap exchange interface 
 <img width="1914" alt="Screenshot 2024-03-11 at 3 43 37 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/ffe137bf-f991-4f30-af92-31715a39c558">
 
 
-portfolio management
+#### Portfolio management
 <img width="1906" alt="Screenshot 2024-03-11 at 3 54 12 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/dd42ce56-a84a-48ed-9777-ec3aa73e9acc">
 
-River Finance (OpenEden Cooperative Project) (https://twitter.com/River_Protocol)
+### River Finance (OpenEden Cooperative Project) (https://twitter.com/River_Protocol)
 
 U.S. Treasury yields for everyone  | RWA backed Lending protocol
 
@@ -34,13 +34,13 @@ U.S. Treasury yields for everyone  | RWA backed Lending protocol
 - Implemented GraphQL subgraph queries and smart contract CRUD mutations.
 - Reviewed application requirements and interface designs to ensure seamless compatibility with existing applications.
 
-RWA asset supply, borrow, repay, withdraw 
+#### RWA asset supply, borrow, repay, withdraw 
 
 <img width="1913" alt="Screenshot 2024-03-11 at 3 42 25 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/d5fffe37-aeba-4a75-9ee8-ee2a394c7763">
 <img width="1892" alt="Untitled" src="https://github.com/memoriaXII/resume-projects/assets/56249189/a937044c-32d3-408b-a242-e5fbb79edf0d">
 
 
-Multiply Leverage vault (DFS)
+#### Multiply Leverage vault (DFS)
 
 <img width="1920" alt="Screenshot 2024-03-11 at 3 40 06 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/7b3186b0-e425-439b-884a-37be1cebedff">
 <img width="1914" alt="Screenshot 2024-03-11 at 3 40 49 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/c8d0f44f-96cc-49f6-a3b8-d67ffaebe217">
@@ -57,10 +57,10 @@ Mainnet: <https://socol.xyz/>
 
 devnet: <https://aws.socol.fans/>
 
-On-chain Social Profile
+#### On-chain Social Profile
 ![socol-1](https://github.com/memoriaXII/improved-spork/assets/56249189/3ad4fbae-1413-4a6f-a6ec-aad40c70bfa4)
 
-Self Owned Community
+#### Self Owned Community
 ![socol2](https://github.com/memoriaXII/improved-spork/assets/56249189/25c781c4-b57e-4d5b-93e2-947da2725923)
 
 **Monetise content through NFT Premium Collectables**
@@ -81,7 +81,16 @@ Onchain bidding chat system
 
 · Staking
 
-P2P Lending  & Permissionless Governance
+Mainnet:
+
+[http://Konomi.tech](https://t.co/UhaDCONVjE)
+
+Dev net:
+
+[http://dev.Konomi.tech](https://t.co/qsOmkxqZhr)
+
+
+#### P2P Lending  & Permissionless Governance
 
 Complete user-led decentralization and its support for flexible lending in minority currencies. Konomi Ocean Lending consists of a pool of lending funds created by users within the protocol
 ![konomi1](https://github.com/memoriaXII/improved-spork/assets/56249189/568329e6-9232-4a6a-9560-867d35e147d4)
@@ -91,33 +100,18 @@ Complete user-led decentralization and its support for flexible lending in minor
 ![konomi4](https://github.com/memoriaXII/improved-spork/assets/56249189/14ef47e7-6bf9-44aa-bc09-7e8af5dfee68)
 
 
-P2P Ocean Lending
+#### P2P Ocean Lending
 
 Customized lending factors
 
 ![konomi5](https://github.com/memoriaXII/improved-spork/assets/56249189/c177d921-06cd-4b21-8fee-a576db63b1ae)
 
 
-Konomi Oracle
+#### Konomi Oracle (Pair with lending markets)
 ![konomi6](https://github.com/memoriaXII/improved-spork/assets/56249189/5bbadc61-63c0-498d-ab47-4461eca0dcbb)
 
 
-Staking :
+#### Staking :
 ![konomi7](https://github.com/memoriaXII/improved-spork/assets/56249189/1f321fa1-302f-440a-b38d-66c058dd0833)
 ![konomi8](https://github.com/memoriaXII/improved-spork/assets/56249189/1abd5706-1c79-4271-96ae-c3862364de9a)
 
-Mainnet:
-
-[http://Konomi.tech](https://t.co/UhaDCONVjE)
-
-Dev net:
-
-[http://dev.Konomi.tech](https://t.co/qsOmkxqZhr)
-
-<https://coin68.com/huong-dan-su-dung-giao-thuc-konomi-kono/>
-
-<https://medium.com/@socol.io/welcome-to-so-col-test-final-round-3-8005a142ee0e>
-
-token staking: <https://socol.gitbook.io/so-col-staking-guide/step-1-get-to-the-staking-page>
-
-nft community collection : <https://www.youtube.com/watch?v=vxO7HKPCb2w>
