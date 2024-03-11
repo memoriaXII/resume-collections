@@ -137,6 +137,10 @@ Customized lending factors
 ![konomi7](https://github.com/memoriaXII/improved-spork/assets/56249189/1f321fa1-302f-440a-b38d-66c058dd0833)
 ![konomi8](https://github.com/memoriaXII/improved-spork/assets/56249189/1abd5706-1c79-4271-96ae-c3862364de9a)
 
+
+
+
+
 ### Skyark Studios (https://twitter.com/SkyarkS) (PT)
 
 Triple-A game creation system and online gaming platform. 
