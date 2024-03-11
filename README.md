@@ -137,3 +137,23 @@ Customized lending factors
 ![konomi7](https://github.com/memoriaXII/improved-spork/assets/56249189/1f321fa1-302f-440a-b38d-66c058dd0833)
 ![konomi8](https://github.com/memoriaXII/improved-spork/assets/56249189/1abd5706-1c79-4271-96ae-c3862364de9a)
 
+### Skyark Studios (<[https://twitter.com/KonomiNetwork](https://twitter.com/SkyarkS)>) (PT)
+
+Triple-A game creation system and online gaming platform. 
+
+<img width="1920" alt="Screenshot 2024-03-11 at 5 15 08 PM" src="https://github.com/memoriaXII/resume-collections/assets/56249189/4542059a-9dc1-419a-8ff4-ba4c8e740e60">
+<img width="1918" alt="Screenshot 2024-03-11 at 5 15 25 PM" src="https://github.com/memoriaXII/resume-collections/assets/56249189/abd7e5f7-42e0-4296-b6ca-05ebd4cfb48e">
+<img width="962" alt="Screenshot 2024-03-11 at 5 15 34 PM" src="https://github.com/memoriaXII/resume-collections/assets/56249189/6f13fe48-0c53-41d5-a852-8829356950fb">
+<img width="1918" alt="Screenshot 2024-03-11 at 5 15 47 PM" src="https://github.com/memoriaXII/resume-collections/assets/56249189/bc8017e0-3754-41fa-8041-f34413bd8b3a">
+<img width="1913" alt="Screenshot 2024-03-11 at 5 15 58 PM" src="https://github.com/memoriaXII/resume-collections/assets/56249189/a50ab581-8198-4f0c-9527-f17d131b4cf7">
+
+
+Mainnet:
+
+[https://www.skyarkchronicles.com/]
+
+Dev net:
+
+[https://vercel-skyark.vercel.app/]
+
+
