@@ -1,12 +1,12 @@
 # Latest Projects
 
-### OpenEden (<https://twitter.com/OpenEden_Labs>)
+OpenEden (https://twitter.com/OpenEden_Labs)
 
 Tokenized RWA vault to offer 24/7, direct access to U.S. Treasury Bills.
 
 mainnet: [https://openeden.com/](https://app.openeden.com/)
 
-devnet: <https://dev.openeden.com/>
+devnet: https://dev.openeden.com/
 
 - Developed and expanded functionalities and library integrations for the OpenEden protocol Dapp.
 - Integrated Wagmi, Ether.js, Viem, and Typechain to facilitate smooth interactions with Crosschain smart contracts and SDK implementations.
@@ -14,7 +14,14 @@ devnet: <https://dev.openeden.com/>
 - Implemented GraphQL subgraph queries and smart contract CRUD mutations.
 - Reviewed application requirements and interface designs to ensure seamless compatibility with existing applications.
 
-River Finance (OpenEden Cooperative Project) (<https://twitter.com/River_Protocol>)
+Vault swap exchange interface 
+<img width="1914" alt="Screenshot 2024-03-11 at 3 43 37 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/ffe137bf-f991-4f30-af92-31715a39c558">
+
+
+portfolio management
+<img width="1906" alt="Screenshot 2024-03-11 at 3 54 12 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/dd42ce56-a84a-48ed-9777-ec3aa73e9acc">
+
+River Finance (OpenEden Cooperative Project) (https://twitter.com/River_Protocol)
 
 U.S. Treasury yields for everyone  | RWA backed Lending protocol
 
@@ -26,6 +33,21 @@ U.S. Treasury yields for everyone  | RWA backed Lending protocol
 - Designed modular and reusable component structures.
 - Implemented GraphQL subgraph queries and smart contract CRUD mutations.
 - Reviewed application requirements and interface designs to ensure seamless compatibility with existing applications.
+
+RWA asset supply, borrow, repay, withdraw 
+
+<img width="1913" alt="Screenshot 2024-03-11 at 3 42 25 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/d5fffe37-aeba-4a75-9ee8-ee2a394c7763">
+<img width="1892" alt="Untitled" src="https://github.com/memoriaXII/resume-projects/assets/56249189/a937044c-32d3-408b-a242-e5fbb79edf0d">
+
+
+Multiply Leverage vault (DFS)
+
+<img width="1920" alt="Screenshot 2024-03-11 at 3 40 06 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/7b3186b0-e425-439b-884a-37be1cebedff">
+<img width="1914" alt="Screenshot 2024-03-11 at 3 40 49 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/c8d0f44f-96cc-49f6-a3b8-d67ffaebe217">
+
+
+Staking & Token points incentives system (comptroller token accumulations)
+<img width="1899" alt="Screenshot 2024-03-11 at 3 37 52 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/bb359e31-1395-42b4-8653-97625edaf116">
 
 ### Socol (**<https://twitter.com/socol_io>**)**
 
