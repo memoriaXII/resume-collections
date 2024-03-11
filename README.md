@@ -46,10 +46,11 @@ U.S. Treasury yields for everyone  | RWA backed Lending protocol
 <img width="1914" alt="Screenshot 2024-03-11 at 3 40 49 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/c8d0f44f-96cc-49f6-a3b8-d67ffaebe217">
 
 
-Staking & Token points incentives system (comptroller token accumulations)
+####  Staking & Token points incentives system (comptroller token accumulations)
+
 <img width="1899" alt="Screenshot 2024-03-11 at 3 37 52 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/bb359e31-1395-42b4-8653-97625edaf116">
 
-### Socol (**<https://twitter.com/socol_io>**)**
+### Socol (**<https://twitter.com/socol_io>**)
 
 Supercharging creators, brands and communities with web3 and NFTs, build, govern and own communities with ease
 
