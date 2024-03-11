@@ -58,6 +58,16 @@ Mainnet: <https://socol.xyz/>
 
 devnet: <https://aws.socol.fans/>
 
+- Develop and extend Defi protocol Dapp
+- Solidity development with unit-test and SDK integration
+- Websocket & SSE (Server Side Event) subscribe implementation
+- Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Toolkit and Jest
+- Ether.js & Web3.js && hardhat integration
+- Reviewed application requirements and interface designs to ensure compatibility within existing applications
+- Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker
+- Expertise in using JIRA software with Jenkins and github for real time bug tracking and issue management
+- Expertise in implementing Agile and SDLC software development methodologies.
+
 #### On-chain Social Profile
 ![socol-1](https://github.com/memoriaXII/improved-spork/assets/56249189/3ad4fbae-1413-4a6f-a6ec-aad40c70bfa4)
 
@@ -73,6 +83,17 @@ Onchain bidding chat system
 ### Konomi network (<https://twitter.com/KonomiNetwork>)
 
  Decentralized liquidity and money market protocol. It’s a management solution for cross-chain crypto assets, P2P Lending will use the Konomi Oracle Machine to fill the gap in the market for small currency lending by launching the Konomi P2P lending module
+
+- Develop and extend Defi protocol Dapp
+- Solidity development with unit-test and SDK integration
+- Websocket & SSE (Server Side Event) subscribe implementation
+- Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Toolkit and Jest
+- Ether.js & Web3.js && hardhat integration
+- Reviewed application requirements and interface designs to ensure compatibility within existing applications
+- Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker
+- Expertise in using JIRA software with Jenkins and github for real time bug tracking and issue management
+- Expertise in implementing Agile and SDLC software development methodologies.
+ 
 
 · Lending/Borrowing
 
