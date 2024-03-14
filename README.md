@@ -25,6 +25,11 @@ devnet: https://dev.openeden.com/
 
 U.S. Treasury yields for everyone  | RWA backed Lending protocol
 
+
+mainnet: https://www.riverapp.io
+
+devnet: https://river-v1.vercel.app, https://dev.riverapp.io
+
 - Developed and expanded functionalities and library integrations for the Lending protocol Dapp
 - FlashLoan leverage position vault implementations & Repay leverage adjustment options
 - Staking token incentives staking system implementations
