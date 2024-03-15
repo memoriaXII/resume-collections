@@ -47,8 +47,17 @@ devnet: https://river-v1.vercel.app, https://dev.riverapp.io
 
 #### Multiply Leverage vault (DFS)
 
+By using Defi-Saver Smart Accounts (DSA) to create simple leverage for users. At the backend we will utilize smart accounts to perform chained smart contract actions of leveraging and deleveraging accordingly. Users will only input the deposit amount of TBILLs or USDC, and we will initiate a position account for them. 
+
+Smart accounts utilizes the Proxy pattern where the user owns a DS-Proxy contract that enables executing a number of methods in a ProxyActions contract where the user only has to sign one transaction. The user and our superadmin are the direct owner of the DSAs. The superadmin role is to automate rebalances for the user whenever leverage level goes beyond a threshold. 
+
+![image](https://github.com/memoriaXII/resume-collections/assets/56249189/eaba61aa-69f5-4710-8841-72d9cb5f63b4)
+
+
 <img width="1920" alt="Screenshot 2024-03-11 at 3 40 06 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/7b3186b0-e425-439b-884a-37be1cebedff">
 <img width="1914" alt="Screenshot 2024-03-11 at 3 40 49 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/c8d0f44f-96cc-49f6-a3b8-d67ffaebe217">
+
+
 
 
 ####  Staking & Token points incentives system (comptroller token accumulations)
