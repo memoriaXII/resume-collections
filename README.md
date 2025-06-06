@@ -1,5 +1,57 @@
 # Latest Projects
 
+### Zklink (https://x.com/zkLink_Official)
+
+#### Novaswap 
+
+mainnet: https://novaswap.fi/#/swap
+devnet: : https://dev.novaswap.fi/#/swap
+
+The native DEX on zklink, with multi-layer yields & multi-chain-aggregated assets in one place.
+
+- Led the 0-to-1 development of NovaSwap, a concentrated liquidity AMM built on zkLink Nova, achieving over $4M TVL by optimizing capital efficiency across Layer 2 assets.
+- Deployed custom Uniswap V3-style liquidity pools, enabling LPs to provide liquidity within specific price ranges, increasing capital utilization and reducing slippage.
+- Built and maintained front-end interfaces using Viem, Wagmi, Typechain, and React, ensuring seamless wallet connectivity and UX.
+- Deployed GraphQL subgraphs to index LP positions, historical trades, and user stats, supporting an advanced analytics dashboard for traders and LPs.
+
+#### AGX (https://x.com/AGX_XYZ)
+
+Native perpetual DEX with multi-layer yield aggregation and LRT-native support.
+Built on zkLink Nova, AGX enables up to 100x leveraged perpetual trading of multi-chain assets while natively integrating LST/LRT collateral and yield-bearing strategies.
+
+
+mainnet: https://agx.xyz/
+devnet: : https://dev.agx.xyz
+
+
+<img width="1917" alt="image" src="https://github.com/user-attachments/assets/9c776efa-acb5-4710-8134-35c207d15395" />
+
+<img width="1897" alt="image" src="https://github.com/user-attachments/assets/76f81758-de0d-4ab0-b665-31602db6b169" />
+
+
+
+- Led the development of AGX, a high-leverage (up to 100x) decentralized perpetual exchange built on zkLink Nova Layer 3 rollup, delivering the speed of centralized exchanges with the security of DeFi.
+Architected and implemented multi-asset liquidity pools (ALP) consisting of stablecoins, ETH, WBTC, and LRTs, powering swap, market making, and leveraged trading simultaneously.
+Integrated Pyth Network Oracles for real-time aggregated pricing to ensure trading safety, accuracy, and MEV-resilient execution.
+
+- Architected and implemented multi-asset liquidity
+pools (ALP) consisting of stablecoins, ETH, W BTC, and LRT s, powering swap, market making, and leveraged
+trading simultaneously
+
+- Integrated Pyth Network Oracles for real-time
+aggregated pricing to ensure trading safety, accuracy,
+and MEV -resilient execution
+
+- Developed the token incentive system for A GX staking
+and liquidity mining, generating yields of over 100%
+APY from sources such as EigenLayer points, L RT /L SD
+rewards, and zkLink incentives
+
+- Contributed to full-stack development using Solidity,
+H ardhat, Foundry, Viem, Wagmi, React, Type Script, and
+The Graph; handled smart contracts, frontend UI, and
+GraphQL data indexing .
+
 ### OpenEden (https://twitter.com/OpenEden_Labs)
 
 Tokenized RWA vault to offer 24/7, direct access to U.S. Treasury Bills.
