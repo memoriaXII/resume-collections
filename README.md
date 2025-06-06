@@ -7,6 +7,11 @@
 mainnet: https://novaswap.fi/#/swap
 devnet: : https://dev.novaswap.fi/#/swap
 
+<img width="1908" alt="image" src="https://github.com/user-attachments/assets/0b94d73b-24fa-4ac3-b72f-1f69e306e66b" />
+
+<img width="1910" alt="image" src="https://github.com/user-attachments/assets/9e0b8225-76ad-4d60-adb2-dca46f66ef71" />
+
+
 The native DEX on zklink, with multi-layer yields & multi-chain-aggregated assets in one place.
 
 - Led the 0-to-1 development of NovaSwap, a concentrated liquidity AMM built on zkLink Nova, achieving over $4M TVL by optimizing capital efficiency across Layer 2 assets.
