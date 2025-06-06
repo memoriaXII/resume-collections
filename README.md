@@ -4,14 +4,14 @@
 
 mainnet: https://app.stratus.exchange/swap?chainId=98866 devnet: : https://app.stratus.exchange/swap?chainId=98867
 
+![photo_2025-06-06 11 03 54](https://github.com/user-attachments/assets/703b4695-eed8-4eee-bd67-a8fa80482fd0)
+
+![photo_2025-06-06 11 04 39](https://github.com/user-attachments/assets/a4d7a252-40e1-4946-a87f-2403efbff60d)
+
 Stratus is an intent-based DEX that enables slippage-free, MEV-resistant spot trading by executing user intents through signed quotes, leveraging RFQ-style execution while preserving on-chain finality and intent privacy.
 
 Users submit trade intents and receive signed, executable quotes from solvers, which can be filled instantly on-chain. combining TradFi-grade execution certainty with DeFi composability, enabling private price discovery and secure trade finality
 
-
-![photo_2025-06-06 11 03 54](https://github.com/user-attachments/assets/703b4695-eed8-4eee-bd67-a8fa80482fd0)
-
-![photo_2025-06-06 11 04 39](https://github.com/user-attachments/assets/a4d7a252-40e1-4946-a87f-2403efbff60d)
 
 - Leading the development of a unified quote aggregator that abstracts pricing across onchain and offchain liquidity sources, forming the foundation of an intent-based execution framework.
 
