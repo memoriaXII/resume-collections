@@ -2,7 +2,8 @@
 
 ### Stratus Exchange (https://x.com/StratusExchange)
 
-mainnet: https://app.stratus.exchange/swap?chainId=98866  (aggregator mode)
+mainnet: https://app.stratus.exchange/swap?chainId=98866  (aggregator mode) 
+
 devnet: : https://app.stratus.exchange/swap?chainId=98867   (aggregator mode)
 
 ![photo_2025-06-06 11 03 54](https://github.com/user-attachments/assets/703b4695-eed8-4eee-bd67-a8fa80482fd0)
