@@ -1,6 +1,32 @@
 # Latest Projects
 
+### Stratus Exchange (https://x.com/StratusExchange)
+
+mainnet: https://app.stratus.exchange/swap?chainId=98866 devnet: : https://app.stratus.exchange/swap?chainId=98867
+
+Stratus is an intent-based DEX that enables slippage-free, MEV-resistant spot trading by executing user intents through signed quotes, leveraging RFQ-style execution while preserving on-chain finality and intent privacy.
+
+Users submit trade intents and receive signed, executable quotes from solvers, which can be filled instantly on-chain. combining TradFi-grade execution certainty with DeFi composability, enabling private price discovery and secure trade finality
+
+
+![photo_2025-06-06 11 03 54](https://github.com/user-attachments/assets/703b4695-eed8-4eee-bd67-a8fa80482fd0)
+
+![photo_2025-06-06 11 04 39](https://github.com/user-attachments/assets/a4d7a252-40e1-4946-a87f-2403efbff60d)
+
+- Leading the development of a unified quote aggregator that abstracts pricing across onchain and offchain liquidity sources, forming the foundation of an intent-based execution framework.
+
+- Working on core components that normalize liquidity data, resolve token paths, and return structured output for downstream relayers and routing modules.
+
+- Participating in the architecture of a modular backend system responsible for routing logic, fallback handling, and execution submission under intent-based models.
+
+- Collaborating on the design of a multi-pool AMM architecture to support concentrated liquidity, token routing, and solver interoperability across multiple liquidity sources.
+
+- Contributing to internal system diagrams, specifications, and PoCs to support team alignment, future audits, and external integration readiness.
+
+
 ### Zklink (https://x.com/zkLink_Official)
+
+The Aggregated Layer3 zkEVM Network
 
 #### Novaswap 
 
