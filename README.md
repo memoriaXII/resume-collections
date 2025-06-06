@@ -59,6 +59,8 @@ devnet: : https://dev.agx.xyz
 
 <img width="1897" alt="image" src="https://github.com/user-attachments/assets/76f81758-de0d-4ab0-b665-31602db6b169" />
 
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/65900854-d147-4118-b8dd-e26597384e2d" />
+
 
 
 - Led the development of AGX, a high-leverage (up to 100x) decentralized perpetual exchange built on zkLink Nova Layer 3 rollup, delivering the speed of centralized exchanges with the security of DeFi.
@@ -139,6 +141,7 @@ Smart accounts utilizes the Proxy pattern where the user owns a DS-Proxy contrac
 
 <img width="1920" alt="Screenshot 2024-03-11 at 3 40 06 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/7b3186b0-e425-439b-884a-37be1cebedff">
 <img width="1914" alt="Screenshot 2024-03-11 at 3 40 49 PM" src="https://github.com/memoriaXII/resume-projects/assets/56249189/c8d0f44f-96cc-49f6-a3b8-d67ffaebe217">
+![Group 1010108394](https://github.com/user-attachments/assets/9fd10d76-4c4e-49ec-87ef-6a46fb04aaa7)
 
 
 
